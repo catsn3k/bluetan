@@ -13,7 +13,7 @@ Usability:
 Background:
 --------------------------
 
-Members without the, "Newfag" role will **NOT** have access to the `#self-assign` channel
+Members without the "Newfag" role will **NOT** have access to the `#self-assign` channel
 
 However, if a member wants to change their team role, they will need to contact the owner via **PM or @ mentioning**
 
